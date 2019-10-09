@@ -1,2 +1,2 @@
 # DEMO
-mes projets pour démo
+Voici des projets réalisés dans une optique d'informatique graphique.
