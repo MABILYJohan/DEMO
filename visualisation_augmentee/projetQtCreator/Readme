@@ -1,3 +1,5 @@
 
 - Programme en C++
 - Se compile avec Qt
+- Projet QtCreator
+	-> Ouvrir le fichier visuSurface.pro pour charger
