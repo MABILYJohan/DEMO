@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/billboard.fsh</file>
+        <file>shaders/billboard.vsh</file>
+        <file>shaders/simple.fsh</file>
+        <file>shaders/simple.vsh</file>
+        <file>shaders/shaderPoisson.fsh</file>
+        <file>shaders/shaderPoisson.vsh</file>
+        <file>textures/poisson.png</file>
+        <file>textures/FondMarin.png</file>
+        <file>shaders/basicColor.vsh</file>
+        <file>shaders/basicColor.fsh</file>
+        <file>textures/poisson2.png</file>
+        <file>textures/poysson.png</file>
+        <file>textures/meduse.png</file>
+        <file>textures/requin.png</file>
+    </qresource>
+</RCC>
